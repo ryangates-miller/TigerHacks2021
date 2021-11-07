@@ -8,7 +8,7 @@ The statments of Kepler's laws are as follows:
 |-------------|
 |1.Planets move in elliptical orbits with the sun at one focus.|
 |2.The line joining planets to either focus sweeps out equal areas in equal times.|
-|3.The square of the period is proportional to the cube of the semi-major axis (half the longer side of the ellipse):  T^^2∝a^^3|
+|3.The square of the period is proportional to the cube of the semi-major axis (half the longer side of the ellipse):  T<sup>2</sup>∝a<sup>3</sup>|
 
 Kepler originally developed these laws in relation to planetary orbits. 
 However, their results hold true for any system with a radial force that 
